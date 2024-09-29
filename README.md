@@ -13,9 +13,9 @@ Predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
 
 **location within repository**<br>
->data file : Resources/crypto_market_data.csv<br>
-code to assess the clustering:Jupyter Notebook :Crypto_Clustering_V1.ipymb<br>
-original template to create clustering: Jupyter Notebook :Crypto_Clustering_V0.ipymb<br>
+**data file** : Resources/crypto_market_data.csv<br>
+**code to assess the clustering**:Jupyter Notebook :Crypto_Clustering_V1.ipymb<br>
+**original template to create clustering**: Jupyter Notebook :Crypto_Clustering_V0.ipymb<br>
 
 **Code source**:Crypto_Clustering_V1.ipymb<br>
 
@@ -23,10 +23,10 @@ original template to create clustering: Jupyter Notebook :Crypto_Clustering_V0.i
 
 **dependencies** The python code relies on the data file in the Resources folder<br>
 
-Additional Comments :  This code is my original work with help from<br>
-I have NOT worked with a peer on an assignment,<br>
-I used google<br>
-I used Stack Overflow (https://stackoverflow.com/)<br>
-I used CanChat (https://canchat.dsai-sdia.ssc-spc.cloud-nuage.canada.ca/) to resolve issues<br>
-The instructor did not assist in the homework challenge this week.<br>
-The TA did not assist in the homework challenge this week
+**Additional Comments** :  This code is my original work with help from<br>
+_I have NOT worked with a peer on an assignment_<br>
+_I used google_<br>
+_I used Stack Overflow (https://stackoverflow.com/)_<br>
+_I used CanChat (https://canchat.dsai-sdia.ssc-spc.cloud-nuage.canada.ca/) to resolve issues_<br>
+_The instructor did not assist in the homework challenge this week_<br>
+_The TA did not assist in the homework challenge this week_
