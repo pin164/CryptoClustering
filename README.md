@@ -9,7 +9,7 @@ Predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 4.Optimize Clusters with Principal Component Analysis<br>
 5.Find the Best Value for k Using the PCA DataFrame<br>
 6.Cluster Cryptocurrencies with K-means Using the PCA DataFrame<br>
-7. Finally assess the impact of using fewer features to cluster the data using K-Means<br>
+7.Finally assess the impact of using fewer features to cluster the data using K-Means<br>
 
 
 **location within repository**<br>
